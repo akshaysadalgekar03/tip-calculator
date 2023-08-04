@@ -34,4 +34,6 @@ This is a simple Tip Calculator built using HTML, CSS, and JavaScript. It allows
 
 8. **Data Types and Type Conversion:** The code uses methods like `parseFloat` and `Number` to convert input values to the appropriate data types (floats and numbers) for calculations.
 
+![Image](https://github.com/akshaysadalgekar03/tip-calculator/blob/main/Tip%20Calculator%20ScreenShot.png)
+
 Feel free to customize and enhance the design and functionality to suit your preferences and needs! Happy coding!
